@@ -1,4 +1,4 @@
-# Busqueda dinámcia api placeholder
+# Busqueda dinámica api placeholder y react
 
 npm install
 
